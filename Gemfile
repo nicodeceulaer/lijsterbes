@@ -12,7 +12,7 @@ group :development do
 	gem 'sqlite3'
 end
 
-group :assets do
+#group :assets do
 	gem 'sass-rails', '~> 4.0.0.rc1'
 	gem 'uglifier', '>= 1.3.0'
 	gem 'coffee-rails', '~> 4.0.0'
@@ -21,7 +21,7 @@ group :assets do
 	gem 'jquery-rails'
 	gem 'turbolinks'
 	gem 'jbuilder', '~> 1.0.1'
-end
+#end
 
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.
